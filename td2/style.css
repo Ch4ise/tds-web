@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
-    background-color : #EEEEEE;
+    background-color : #f7f7f7;
     
 }
 
@@ -12,9 +12,9 @@ div {
     text-align : center ;
     padding : 15px;
     background-color : black;
-    margin-left : 500px ;
-    margin-right : 500px ;
     display : absolute;
+    width : 750px;
+    margin : auto;
 }
 
 #clique {
@@ -34,7 +34,12 @@ h1 {
     padding : 12px ;
 }
 
-.numero {
-    padding-block: 8px;
+li {
+    padding-block: 5px;
 }
+
+.numero {
+
+}
+
 
