@@ -1,0 +1,31 @@
+body {
+    color : red ;
+    text-align : center ;
+    font-size : 50px ;
+    background-color: darkslategray ;
+}
+
+h1 {
+    color : greenyellow ;
+}
+
+p {
+    color : whitesmoke ;
+    font-size: 24px;
+}
+
+p span {
+    font-style: italic ;
+    color : violet;
+    font-weight : bold ;
+}
+
+label {
+    color : lightgoldenrodyellow ;
+    font-size : small;
+}
+
+select {
+    color : red ;
+    background-color: blueviolet;
+}
